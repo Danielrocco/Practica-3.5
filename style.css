@@ -2,3 +2,22 @@ header {
     background-color: blanchedalmond;
     text-align: center;
 }
+
+nav {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+section {
+    background-color: orange;
+}
+
+footer {
+    background-color: blue;
+    text-align: center;
+}
+
+span.final {
+    background-color: yellow;
+    text-decoration: underline;
+}
